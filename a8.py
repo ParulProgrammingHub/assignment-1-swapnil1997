@@ -1,0 +1,7 @@
+print ("Enter base of triangle")
+b = input()
+print ("Enter heigth of triangle")
+h = input()
+a = float(0.5*b*h)
+print ("Area of triangle is ")
+print (a)

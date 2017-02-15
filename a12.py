@@ -1,0 +1,5 @@
+print ("enter the value")
+n = input()
+t = n + pow(n,2) + pow(n,3)
+print ("Total value is")
+print (t)

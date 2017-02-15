@@ -1,0 +1,7 @@
+print ("enter the number of base")
+b = input()
+print ("enter the number of power")
+p = input()
+r = pow(b,p)
+print ("The result is...")
+print (r)

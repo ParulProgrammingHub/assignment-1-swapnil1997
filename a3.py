@@ -1,0 +1,8 @@
+print ("enter value in centimeter")
+a = input()
+m = float(a/100)
+print ("value in meter is")
+print (m)
+k = float(a/10000)
+print ("value in kilometer is")
+print (k)
